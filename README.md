@@ -26,3 +26,6 @@ As you venture through this strange world, you will face multiple choices that c
 ```bash
    git clone https://github.com/jay-gleeson/CS175-Midterm-Project-Fall-2024.git
    cd CS175-Midterm-Project-Fall-2024/CS-Week-4-Simple-Adventure-Game
+```
+
+Enjoy your adventure in Euclid 🛤️ and may your choices lead you to a good fate! 🍀✨
