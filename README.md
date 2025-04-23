@@ -42,5 +42,18 @@ As you venture through this strange world, you will face multiple choices that c
       g++ CS-Week-4-Simple-Adventure-Game.cpp -o euclid
       ./euclid
       ```
+## Challenges ⚠️
+Narrative Cohesion 🧵: Maintaining a consistent tone and logical flow between branches was tricky with multiple story paths.
 
-Enjoy your adventure in Euclid 🛤️ and may your choices lead you to a good fate! 🍀✨
+State Tracking 🔄: Tracking the player’s key decisions (amulet, riddle, etc.) across different scenes required careful use of variables and conditionals.
+
+Dynamic Ending Logic 🧠: Ensuring that the ending properly reflected the player's choices involved juggling several layers of branching logic.
+
+## Future Improvements 🚀
+Save/Load System 💾: Implementing the ability to save progress and resume later for a smoother player experience.
+
+Expanded Narrative Paths 🧭: Introduce more choices and subplots to deepen replayability and immersion.
+
+---
+
+Enjoy your adventure in *Euclid* 🛤️ and may your choices lead you to a good fate! 🍀✨
