@@ -22,24 +22,25 @@ As you venture through this strange world, you will face multiple choices that c
 5. **Multiple Outcomes**: Your decisions may lead to different outcomes, so play again to explore new paths! 🔄
 
 ## **Installation Instructions** ⚙️
-1. Clone the repo
-```bash
-git clone https://github.com/jay-gleeson/CS175-Midterm-Project-Fall-2024.git
-```
-2. Open directory
-```bash
-cd CS175-Midterm-Project-Fall-2024/CS-Week-4-Simple-Adventure-Game
-```
-3. Compile cpp
-   A. Windows
-```bash
-g++ CS-Week-4-Simple-Adventure-Game.cpp -o Euclid.exe
-Euclid.exe
-```
-   B. MacOS / Linux
-```bash
-g++ CS-Week-4-Simple-Adventure-Game.cpp -o euclid
-./euclid
-```
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/jay-gleeson/CS175-Midterm-Project-Fall-2024.git
+   ```
+2. Open directory:
+   ```bash
+   cd CS175-Midterm-Project-Fall-2024/CS-Week-4-Simple-Adventure-Game
+   ```
+3. Compile cpp:
+
+   A. Windows:
+      ```bash
+      g++ CS-Week-4-Simple-Adventure-Game.cpp -o Euclid.exe
+      Euclid.exe
+      ```
+   B. MacOS / Linux:
+      ```bash
+      g++ CS-Week-4-Simple-Adventure-Game.cpp -o euclid
+      ./euclid
+      ```
 
 Enjoy your adventure in Euclid 🛤️ and may your choices lead you to a good fate! 🍀✨
