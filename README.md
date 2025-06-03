@@ -28,18 +28,18 @@ As you venture through this strange world, you will face multiple choices that c
    ```
 2. Open directory:
    ```bash
-   cd CS175-Midterm-Project-Fall-2024/CS-Week-4-Simple-Adventure-Game
+   cd CS175-Midterm-Project-Fall-2024/CS175-Midterm-Project
    ```
 3. Compile cpp:
 
    A. Windows:
       ```bash
-      g++ CS-Week-4-Simple-Adventure-Game.cpp -o Euclid.exe
+      g++ midterm-project.cpp -o Euclid.exe
       Euclid.exe
       ```
    B. MacOS / Linux:
       ```bash
-      g++ CS-Week-4-Simple-Adventure-Game.cpp -o euclid
+      g++ midterm-project.cpp -o euclid
       ./euclid
       ```
 ## Challenges ⚠️
