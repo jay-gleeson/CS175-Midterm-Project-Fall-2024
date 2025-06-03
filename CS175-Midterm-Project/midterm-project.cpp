@@ -1,4 +1,4 @@
-// CS-Week-4-Simple-Adventure-Game.cpp : EUCLID, a game of interdimensional adventure!
+// midterm-project.cpp : EUCLID, a game of interdimensional adventure!
 
 #include <iostream>
 #include <iomanip>
