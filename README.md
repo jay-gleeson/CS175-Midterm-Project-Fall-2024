@@ -54,6 +54,8 @@ Save/Load System 💾: Implementing the ability to save progress and resume late
 
 Expanded Narrative Paths 🧭: Introduce more choices and subplots to deepen replayability and immersion.
 
+Fix Comments for Readability 💬: Reduce comment length for in-line and block comments for better reproductability and readability.
+
 ---
 
 Enjoy your adventure in *Euclid* 🛤️ and may your choices lead you to a good fate! 🍀✨
