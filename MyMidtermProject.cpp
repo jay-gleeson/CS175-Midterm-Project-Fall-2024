@@ -1,4 +1,4 @@
-// midterm-project.cpp : EUCLID, a game of interdimensional adventure!
+// MyMidtermProject.cpp : EUCLID, a game of interdimensional adventure!
 
 #include <iostream>
 #include <iomanip>
