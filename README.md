@@ -24,22 +24,22 @@ As you venture through this strange world, you will face multiple choices that c
 ## **Installation Instructions** ⚙️
 1. Clone the repo:
    ```bash
-   git clone https://github.com/jay-gleeson/CS175-Midterm-Project-Fall-2024.git
+   git clone https://github.com/jay-gleeson/cs175-midterm-project.git
    ```
 2. Open directory:
    ```bash
-   cd CS175-Midterm-Project-Fall-2024/CS175-Midterm-Project
+   cd cs175-midterm-project
    ```
 3. Compile cpp:
 
    A. Windows:
       ```bash
-      g++ midterm-project.cpp -o Euclid.exe
-      Euclid.exe
+      g++ MyMidtermProject.cpp -o euclid.exe
+      euclid.exe
       ```
    B. MacOS / Linux:
       ```bash
-      g++ midterm-project.cpp -o euclid
+      g++ MyMidtermProject.cpp -o euclid
       ./euclid
       ```
 ## Challenges ⚠️
